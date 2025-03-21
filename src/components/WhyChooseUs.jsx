@@ -19,7 +19,7 @@ const WhyChooseUs = () => {
           {/* Large Image on the Left */}
           <div className="overflow-hidden rounded-lg shadow-lg">
             <img
-              src={assets.whyUs}
+              src={assets.whyus}
               alt="Natural Skincare Products"
               className="h-auto w-full object-cover"
             />

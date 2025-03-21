@@ -21,7 +21,7 @@ import p_img5_4 from './p_img5_4.jpeg';
 import banner1 from './banner1.jpeg';
 import banner2 from './banner2.jpeg';
 import banner3 from './banner3.jpeg';
-import whyUs from './whyUs.jpeg';
+import whyus from './whyus.jpeg';
 import Newsletter from './Newsletter.png';
 import logo from './logo.png';
 import hero_img from './hero_img.png';
@@ -60,7 +60,7 @@ export const assets = {
   about_img2,
   contact_img,
   cross_icon,
-  whyUs,
+  whyus,
   Newsletter,
 };
 
