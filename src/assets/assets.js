@@ -41,6 +41,7 @@ import about_img2 from './about_img2.png';
 import contact_img from './contact_img.png';
 import cross_icon from './cross_icon.png';
 
+
 export const assets = {
   logo,
   hero_img,
@@ -97,8 +98,8 @@ export const products = [
     description:
       'Enhance your natural glow with our 95% chemical-free Brightening Soap. Reduces dark spots and tightens skin for a youthful look.',
     price: 400,
-    discount: 20, // 20% discount
-    rating: 4.5, // Rating out of 5
+    discount: 20, 
+    rating: 4.5, 
     image: [p_img1_1, p_img1_2, p_img1_3, p_img1_4],
     category: 'Soap',
     date: 1716634345448,
